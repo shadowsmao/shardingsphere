@@ -62,14 +62,14 @@ Total: 174 companies.
     <li><a href="https://zowiesunglasses.com/" rel="nofollow">Zowie</a></li>
     <li><a href="https://m.51tiangou.com/" rel="nofollow">51tiangou</a></li>
     <li><a href="http://www.dusto.cn/" rel="nofollow">DUSTO</a></li>
-    <li><a href="https://www.sourcingarts.com/" rel="nofollow">SourcingArts</a></li>
+    <li><a href="https://www.sourcingarts.com/" rel="dofollow">SourcingArts</a></li>
     <li><a href="https://www.wandougongzhu.cn" rel="nofollow">WanDouGongZhu</a></li>
 </ul>
 
 ### Digitalization & Cloud Services
 <ul>
     <li><a href="https://www.jddglobal.com/" rel="nofollow">JD Digits</a></li>
-    <li>JD’s Big Data and Intelligent Supply Chain Department
+    <li><a href="https://ysc.jd.com/login" rel="nofollow">JD’s Big Data and Intelligent Supply Chain Department </a></li>
     <li><a href="https://www.jdcloud.com/cn/" rel="nofollow">JDCloud</a></li>
     <li><a href="https://aifanfan.baidu.com/" rel="nofollow">Baidu aifanfan</a></li>
     <li><a href="https://www.itrus.com.cn/" rel="nofollow">ITrusChina</a></li>
